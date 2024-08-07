@@ -19,7 +19,7 @@ This project is a blend of cutting-edge AI technology and creative character dev
 Watch the demo video to see Paradox Prime in action:
 
 <video width="600" controls>
-  <source src="Updated-Demo.mp4" type="video/mp4">
+  <source src="video\Updated-Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -37,4 +37,4 @@ Watch the demo video to see Paradox Prime in action:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/paradox-prime.git
+   git clone git@github.com:ahmadafzal007/Paradox-Prime-Chatbot.git
