@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+google-generativeai
+Pillow
+PyPDF2
+langchain
+python-dotenv
+fitz  
+faiss-cpu  
+langchain_google_genai
+frontend
+tools
+langchain-community
