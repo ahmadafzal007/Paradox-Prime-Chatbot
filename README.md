@@ -18,10 +18,9 @@ This project is a blend of cutting-edge AI technology and creative character dev
 
 Watch the demo video to see Paradox Prime in action:
 
-<video width="600" controls>
-  <source src="video\Updated-Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Paradox Prime Demo](https://youtu.be/avNBU84yJQs)](https://youtu.be/avNBU84yJQs)
+
+Click on the image to watch the demo video.
 
 ---
 
